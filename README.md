@@ -1,3 +1,3 @@
 # Demo
-This is my first git Respository
-Author = Tanuja Narwade
+This is my first git Respository<br>
+Author - Tanuja Narwade
